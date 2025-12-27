@@ -1,0 +1,38 @@
+# ReelShort API Endpoints - 発見済み
+
+## 認証不要API（GET）
+/api/video/book/getTagList?language=ja              # 全タグリスト取得
+/api/video/book/getBookInfo?book_id=XXX&language=ja # 作品詳細情報
+/api/video/book/getChapterList?book_id=XXX          # チャプターリスト
+/api/video/book/getChapterInfo?chapter_id=XXX       # チャプター詳細
+/api/video/book/getFreeChapter?book_id=XXX          # 無料チャプター
+/api/video/book/getTagBook?tag_id=XXX&page=N&page_size=M&language=ja # タグ別作品
+/api/video/book/getNewTagList?language=ja           # 新タグリスト
+/api/video/search/webSearch?keyword=XXX&language=ja # 検索
+/api/video/search/getSearchDefault?language=ja      # デフォルト検索
+/api/ms/contest/v1/info?include_stages=true         # コンテスト情報
+
+## Next.js データAPI
+/_next/data/{buildId}/ja/movie-genres/all-movies.json          # 全作品リスト
+/_next/data/{buildId}/ja/movie-genres/all-movies/{page}.json   # ページネーション
+
+## 認証必要API（POST）
+/api/video/hall/checkUserKorean   # 韓国ユーザーチェック
+/api/video/hall/info              # ホール情報
+/api/video/hall/webSeeAll         # 全作品表示
+/api/video/book/getBookCollect    # コレクション取得
+/api/video/book/myHistory         # 履歴
+/api/video/book/getMyCollectList  # マイコレクション
+/api/video/user/getUserInfo       # ユーザー情報
+/api/video/user/userLogin         # ログイン
+/api/video/user/thirdLoginCheck   # サードパーティログイン
+/api/video/user/accountLogs       # アカウントログ
+/api/video/store/checkOrder       # 注文確認
+/api/auth/innerH5login            # H5ログイン
+
+## 重要フィールド（ローカライズ判別）
+- tag に "日本オリジナル" が含まれる → 日本オリジナル作品
+- tag_list.category_id == "1013" → 国情報（撮影地）
+- book_source: 1 → ソースタイプ
+- lang: "ja" → 言語
+- t_book_id の形式: "140000000000000XXX" → 日本向けID

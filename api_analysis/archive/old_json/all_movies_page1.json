@@ -1,0 +1,1520 @@
+{
+  "pageProps": {
+    "tags": [
+      {
+        "_id": "6348f5093c6ca761764d8602",
+        "name": "再会"
+      },
+      {
+        "_id": "6348f5093c6ca761764d85f3",
+        "name": "とぼける"
+      },
+      {
+        "_id": "64b728b5841bd422df2bc0d7",
+        "name": "タイムトラベル"
+      },
+      {
+        "_id": "65b1703b3f57499efd05760d",
+        "name": "済度"
+      },
+      {
+        "_id": "64ba065845b1a25bea0e21c0",
+        "name": "刑務所"
+      },
+      {
+        "_id": "65a99b133daa5df28a032b24",
+        "name": "ハーレム"
+      },
+      {
+        "_id": "65bbfb570ffb841ca6002ad3",
+        "name": "不老不死"
+      },
+      {
+        "_id": "65bbfb5ef2f9ff8d60008103",
+        "name": "元帥/将軍"
+      },
+      {
+        "_id": "66124bba32b773444c060974",
+        "name": "女性向けのドラマ"
+      },
+      {
+        "_id": "66124bba32b773444c060979",
+        "name": "トキシック"
+      },
+      {
+        "_id": "66124bba32b773444c06099d",
+        "name": "Brittany Marsicek"
+      },
+      {
+        "_id": "661a00f5814d19792c0300b9",
+        "name": "無邪気な乙女"
+      },
+      {
+        "_id": "66261ddb7503722c730f3b02",
+        "name": "Molly Jass"
+      },
+      {
+        "_id": "6600ed8666c3e0a88700c95e",
+        "name": "契約の恋人"
+      },
+      {
+        "_id": "66124bba32b773444c0609ae",
+        "name": "Samantha Drews"
+      },
+      {
+        "_id": "66124bba32b773444c0609bf",
+        "name": "ワンナイトラブ"
+      },
+      {
+        "_id": "66124bba32b773444c0609c3",
+        "name": "妊娠"
+      },
+      {
+        "_id": "66124bba32b773444c0609c9",
+        "name": "身分を隠せ"
+      },
+      {
+        "_id": "66124bba32b773444c0609d0",
+        "name": "幼馴染みの恋人"
+      },
+      {
+        "_id": "66124bba32b773444c0609d1",
+        "name": "学園ロマンス"
+      },
+      {
+        "_id": "66124bba32b773444c0609d5",
+        "name": "二度目のチャンス"
+      },
+      {
+        "_id": "66124bba32b773444c0609d7",
+        "name": "逆ハーレム"
+      },
+      {
+        "_id": "661a177b4aec95cb3e017f33",
+        "name": "Julia Lynn Clarke"
+      },
+      {
+        "_id": "661f6b103166ec905301dbbd",
+        "name": "時代劇"
+      },
+      {
+        "_id": "66261e10c74daf819002bfb4",
+        "name": "Britney Rae Carrera"
+      },
+      {
+        "_id": "66124bba32b773444c06097b",
+        "name": "Noah Fearnley"
+      },
+      {
+        "_id": "66124bba32b773444c060981",
+        "name": "Seth Edeen"
+      },
+      {
+        "_id": "66124bba32b773444c06098e",
+        "name": "Jarred Harper"
+      },
+      {
+        "_id": "66124bba32b773444c0609a4",
+        "name": "Payton Morelli"
+      },
+      {
+        "_id": "66124bba32b773444c0609a5",
+        "name": "Maryana Dvorska"
+      },
+      {
+        "_id": "66124bba32b773444c0609c2",
+        "name": "健忘症"
+      },
+      {
+        "_id": "66124bba32b773444c0609cc",
+        "name": "スピード婚"
+      },
+      {
+        "_id": "66136413ea4ba93a15090f32",
+        "name": "相続人"
+      },
+      {
+        "_id": "661a394c9cf7fb50dd0bcf53",
+        "name": "家庭主婦"
+      },
+      {
+        "_id": "66124bba32b773444c060975",
+        "name": "男向けのドラマ"
+      },
+      {
+        "_id": "66124bba32b773444c060982",
+        "name": "Lorenzo Brunetti"
+      },
+      {
+        "_id": "66124bba32b773444c0609a9",
+        "name": "Avery Lynch"
+      },
+      {
+        "_id": "66124bba32b773444c0609db",
+        "name": "インディペンデント・ウーマン"
+      },
+      {
+        "_id": "6613884a527ff82766042e39",
+        "name": "年齢差"
+      },
+      {
+        "_id": "66124bba32b773444c06097c",
+        "name": "Richard Sharrah"
+      },
+      {
+        "_id": "66124bba32b773444c0609c5",
+        "name": "ラギッドCEO"
+      },
+      {
+        "_id": "66124bba32b773444c0609da",
+        "name": "相続人/社会人"
+      },
+      {
+        "_id": "66124bba32b773444c060976",
+        "name": "悪女ヒロイン"
+      },
+      {
+        "_id": "66124bba32b773444c06098f",
+        "name": "Kasey Esser"
+      },
+      {
+        "_id": "66124bba32b773444c0609a2",
+        "name": "Grace Swanson"
+      },
+      {
+        "_id": "66124bba32b773444c0609b9",
+        "name": "狼男"
+      },
+      {
+        "_id": "65e7a9acbf074c750207709e",
+        "name": "スーパーパワー"
+      },
+      {
+        "_id": "6600da16c2888abefc0e7a62",
+        "name": "ロマンス"
+      },
+      {
+        "_id": "66124bba32b773444c060978",
+        "name": "立身出世"
+      },
+      {
+        "_id": "66124bba32b773444c06099e",
+        "name": "Maria Barseghian"
+      },
+      {
+        "_id": "66124bba32b773444c0609b2",
+        "name": "マフィア"
+      },
+      {
+        "_id": "66124bba32b773444c0609be",
+        "name": "お涙ちょうだい"
+      },
+      {
+        "_id": "66124bba32b773444c0609cd",
+        "name": "転生"
+      },
+      {
+        "_id": "66124bba32b773444c0609d6",
+        "name": "三角関係"
+      },
+      {
+        "_id": "66261e1ca64c97460c0a204d",
+        "name": "Alexander Trumble"
+      },
+      {
+        "_id": "66124bba32b773444c060990",
+        "name": "John William DiCaro"
+      },
+      {
+        "_id": "66124bba32b773444c0609bb",
+        "name": "婿"
+      },
+      {
+        "_id": "66124bba32b773444c06098b",
+        "name": "Noam Sigler"
+      },
+      {
+        "_id": "66124bba32b773444c0609c4",
+        "name": "転生"
+      },
+      {
+        "_id": "66124bba32b773444c0609c7",
+        "name": "不可思議"
+      },
+      {
+        "_id": "66124bba32b773444c0609c8",
+        "name": "多重アイデンティティ"
+      },
+      {
+        "_id": "66124bba32b773444c0609b1",
+        "name": "コンテンポラリー"
+      },
+      {
+        "_id": "66124bba32b773444c0609b6",
+        "name": "億万長者"
+      },
+      {
+        "_id": "66124bba32b773444c0609b7",
+        "name": "龍"
+      },
+      {
+        "_id": "66124bba32b773444c0609d3",
+        "name": "ラブコメ"
+      },
+      {
+        "_id": "6622f2069d6c5222310fe028",
+        "name": "楽天的"
+      },
+      {
+        "_id": "66124bba32b773444c06099a",
+        "name": "Alena Savostikova"
+      },
+      {
+        "_id": "66124bba32b773444c0609cb",
+        "name": "イケオジ/ディルフ"
+      },
+      {
+        "_id": "66124bba32b773444c0609d2",
+        "name": "天才ベビー"
+      },
+      {
+        "_id": "66124bba32b773444c0609a6",
+        "name": "Daniela Couso"
+      },
+      {
+        "_id": "66124bba32b773444c0609aa",
+        "name": "Autumn Noel"
+      },
+      {
+        "_id": "66124bba32b773444c0609ab",
+        "name": "Candace Mizga"
+      },
+      {
+        "_id": "66124bba32b773444c0609ce",
+        "name": "復讐"
+      },
+      {
+        "_id": "66124bba32b773444c0609d9",
+        "name": "守る夫"
+      },
+      {
+        "_id": "661a446f77cbb6a10604acf8",
+        "name": "犯罪組織の親玉"
+      },
+      {
+        "_id": "66124bba32b773444c0609ca",
+        "name": "スラング"
+      },
+      {
+        "_id": "66124bba32b773444c06097a",
+        "name": "Roman Chsherbakov"
+      },
+      {
+        "_id": "66124bba32b773444c0609b3",
+        "name": "ファンタジー"
+      },
+      {
+        "_id": "66124bba32b773444c0609b4",
+        "name": "結婚後の恋愛"
+      },
+      {
+        "_id": "66124bba32b773444c060977",
+        "name": "スイート"
+      },
+      {
+        "_id": "66124bba32b773444c060998",
+        "name": "Ashley Michelle Grant"
+      },
+      {
+        "_id": "66124bba32b773444c0609bc",
+        "name": "オフィスラブ"
+      },
+      {
+        "_id": "66124bba32b773444c0609d8",
+        "name": "運命の恋人"
+      },
+      {
+        "_id": "661a239e9fd206547c0638fd",
+        "name": "Freddy Piazza"
+      },
+      {
+        "_id": "66261f4446ea1c4f810f5f08",
+        "name": "Levi Peterson"
+      },
+      {
+        "_id": "66124bba32b773444c0609bd",
+        "name": "タブー"
+      },
+      {
+        "_id": "66124bba32b773444c0609c1",
+        "name": "敵から恋人へ"
+      },
+      {
+        "_id": "66124bba32b773444c0609cf",
+        "name": "友達から恋人へ"
+      },
+      {
+        "_id": "66124bba32b773444c0609d4",
+        "name": "離婚後の愛"
+      },
+      {
+        "_id": "66511c7520234bd4410e4cc7",
+        "name": "医療ドラマ"
+      },
+      {
+        "_id": "667e320e4a6ef7ea6a0487b3",
+        "name": "多重アイデンティティ"
+      },
+      {
+        "_id": "666e9189ba32167b060b9b37",
+        "name": "モブキャラ"
+      },
+      {
+        "_id": "666e9210c11bcd0d2f0f95d7",
+        "name": "偽りの恋人"
+      },
+      {
+        "_id": "667bde38f8690a91f7072962",
+        "name": "モンゴロイド"
+      },
+      {
+        "_id": "6681a6a8d5599ce1130a0c60",
+        "name": "大統領の政治とロイヤル"
+      },
+      {
+        "_id": "666c18c08dac6fedb60451b6",
+        "name": "学園ハンサム"
+      },
+      {
+        "_id": "666eac2a07fae4d6510c7062",
+        "name": "家族ドラマ"
+      },
+      {
+        "_id": "667a808817af2634e905668c",
+        "name": "人違い"
+      },
+      {
+        "_id": "667a83680ffb9021ed08ba4f",
+        "name": "ビジネス"
+      },
+      {
+        "_id": "662c258f47f2c9076403ca54",
+        "name": "相続人/名士"
+      },
+      {
+        "_id": "66728210e2c2e3255f0c0ffb",
+        "name": "コメディ"
+      },
+      {
+        "_id": "66817c8f10e858f2ca0f782e",
+        "name": "サバイバル"
+      },
+      {
+        "_id": "666c0b88bed1b9daf008792c",
+        "name": "隣人"
+      },
+      {
+        "_id": "666c181c4c371040ef046799",
+        "name": "運動選手"
+      },
+      {
+        "_id": "6672c61cecd5e75ba00b4f43",
+        "name": "友情"
+      },
+      {
+        "_id": "668100df9ada19fc9402a4db",
+        "name": "成人式"
+      },
+      {
+        "_id": "667a859d8bd22718640dda2f",
+        "name": "迷子"
+      },
+      {
+        "_id": "668ce06678442d3f920dec17",
+        "name": "フィール・グッド"
+      },
+      {
+        "_id": "662a23ad788dfd2cc904e2bb",
+        "name": "グループのお気に入り"
+      },
+      {
+        "_id": "668b88ce23a35361e101f424",
+        "name": "入れ替わり"
+      },
+      {
+        "_id": "669f977a9cd11175a80c949a",
+        "name": "甘いロマンス"
+      },
+      {
+        "_id": "668cbd80c7d6b732ea0b78ec",
+        "name": "ロイヤル/貴族"
+      },
+      {
+        "_id": "6629c81aac8a30834b013ad8",
+        "name": "ホラー"
+      },
+      {
+        "_id": "666c0d5b5aa55bf1c3057485",
+        "name": "義理の兄弟姉妹"
+      },
+      {
+        "_id": "666e9036813d778e9a0677b3",
+        "name": "ストロングウィル"
+      },
+      {
+        "_id": "66276409a5dfc28ed10b5ee0",
+        "name": "カムバックストーリー"
+      },
+      {
+        "_id": "6638866635ed2242b707f1b5",
+        "name": "仕事"
+      },
+      {
+        "_id": "666c0be8d0358e8375064445",
+        "name": "あまりに遅すぎる"
+      },
+      {
+        "_id": "666c168ac86271ec38046925",
+        "name": "聖なる親族"
+      },
+      {
+        "_id": "6672a59ba312fd3d130cbad6",
+        "name": "ファミリー"
+      },
+      {
+        "_id": "668f790f38ddc4e2f50e07d9",
+        "name": "セレブリティー"
+      },
+      {
+        "_id": "662dc4b3c6eca4d47f045e55",
+        "name": "バック・イン・タイム"
+      },
+      {
+        "_id": "66305ab3ca99ed2afa098344",
+        "name": "悪女ヒロイン"
+      },
+      {
+        "_id": "666c1756f03f10b9120e8b2c",
+        "name": "シングルファーザー"
+      },
+      {
+        "_id": "666ea34bb18a32eb130e3e6c",
+        "name": "キャンパス"
+      },
+      {
+        "_id": "666c0f5fe1d5b13c5404d822",
+        "name": "ハートフェルト"
+      },
+      {
+        "_id": "667283220469220c7e074be6",
+        "name": "ドラマ"
+      },
+      {
+        "_id": "66388a4864de75848f00126b",
+        "name": "中毒性がある恋愛"
+      },
+      {
+        "_id": "668175f51d04e375f40ba742",
+        "name": "LGBT"
+      },
+      {
+        "_id": "66261f7ca5dfc28ed10b5e6c",
+        "name": "Alec Badalov"
+      },
+      {
+        "_id": "662b64c98ec34b5b2f0adc3f",
+        "name": "スーパーウォーリアー"
+      },
+      {
+        "_id": "6672a5189f454e0d3f0d1bd5",
+        "name": "サスペンス"
+      },
+      {
+        "_id": "6672a53b88997532b102f4ad",
+        "name": "スリラー"
+      },
+      {
+        "_id": "667e358855f440f6d00c77ee",
+        "name": "浮気"
+      },
+      {
+        "_id": "66970c2fc09450d5a6080a20",
+        "name": "ヤングアダルト"
+      },
+      {
+        "_id": "6697b2ab89d644e4c806edb3",
+        "name": "禁じられた"
+      },
+      {
+        "_id": "66c4382b1693b4acbc099df1",
+        "name": "外科医"
+      },
+      {
+        "_id": "66e3bd074f634c145f064283",
+        "name": "兵士"
+      },
+      {
+        "_id": "66e4f1a71b70f4540b05edf9",
+        "name": "Reality Show"
+      },
+      {
+        "_id": "66f37552b9a1245f290b7530",
+        "name": "ダークロマンス"
+      },
+      {
+        "_id": "66fb58cdea5d49b86b05f70f",
+        "name": "店員"
+      },
+      {
+        "_id": "674ff10a4e258dbc6d01e06b",
+        "name": "隠された気持ち"
+      },
+      {
+        "_id": "674ff141ec5f4d4a59008dcd",
+        "name": "モダン"
+      },
+      {
+        "_id": "674ff159f9949765330daf09",
+        "name": "事業主"
+      },
+      {
+        "_id": "674ff170cc8c3cbebe01e34a",
+        "name": "ダンサー"
+      },
+      {
+        "_id": "674ff1b28781637b1104fa4d",
+        "name": "Aaron Oberst"
+      },
+      {
+        "_id": "674ff1e6a2f80b94ef08fc16",
+        "name": "Jessica Jacoby"
+      },
+      {
+        "_id": "67525ca75dc67bc7ba0ce69f",
+        "name": "日本オリジナル"
+      },
+      {
+        "_id": "676a252530883454a602b9b8",
+        "name": "医者"
+      },
+      {
+        "_id": "67905961038a6c450d001a36",
+        "name": "Evan Wick"
+      },
+      {
+        "_id": "67c01a3cf99c85674e084bdc",
+        "name": "カウボーイ"
+      },
+      {
+        "_id": "67c01ad580d3eb697c0d2c72",
+        "name": "学生"
+      },
+      {
+        "_id": "67c01b159e502c9ef1043bf5",
+        "name": "プレイボーイ"
+      },
+      {
+        "_id": "67c01bc081cab3dd780c1513",
+        "name": "初恋"
+      },
+      {
+        "_id": "67c01bf74c125357d8055b32",
+        "name": "俳優/女優"
+      },
+      {
+        "_id": "67dcd5aebbf6e5196406213a",
+        "name": "一目惚れ"
+      },
+      {
+        "_id": "67dcd6051dfa4b52ff00dbd5",
+        "name": "強烈な性的緊張"
+      },
+      {
+        "_id": "67dcd650ae0a33e2be0d6d31",
+        "name": "シングルマザー"
+      },
+      {
+        "_id": "67dcd69ad82f303ddd0b9c03",
+        "name": "シングルファーザー"
+      },
+      {
+        "_id": "67ecdde8d5a70df45d070ae0",
+        "name": "愛憎"
+      },
+      {
+        "_id": "67ecde1e0a7a9ffb950bf299",
+        "name": "官能小説"
+      },
+      {
+        "_id": "682ad3e9205234f7520c1db0",
+        "name": "会社員"
+      },
+      {
+        "_id": "682ad401bc96207c2b05c007",
+        "name": "秘密"
+      },
+      {
+        "_id": "6855d61ab1921aa93100bb2c",
+        "name": "サスペンス"
+      }
+    ],
+    "tagName": "すべて",
+    "tagBooks": {
+      "desc": "",
+      "books": [
+        {
+          "_id": "6901b1f0e12f46f83f05026d",
+          "t_book_id": "140000000000000355",
+          "book_title": "おかえりパパとママだよ",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/d28e08e0-d020-11f0-84ad-6b5693b490dc.jpg",
+          "book_source": 1,
+          "special_desc": "大学一年生の娘が、家族恒例の感謝祭を祝うために久しぶりに帰省する。\nしかし、彼女は両親の様子がどこかおかしいことに気づいて…。",
+          "tag": [
+            "サスペンス"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Suspense",
+              "lang_name": "サスペンス",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 39676,
+          "collect_count": 677,
+          "chapter_count": 27,
+          "is_paid": 1,
+          "init_collect_count": 241,
+          "init_read_count": 7988,
+          "is_preview": 0,
+          "book_id": "6901b1f0e12f46f83f05026d",
+          "chapter_id": "8qyf8wzqmk",
+          "serial_number": 1
+        },
+        {
+          "_id": "6854d0b61cc7f0fc460aa3a1",
+          "t_book_id": "140000000000000272",
+          "book_title": "人を呪わば穴二つ",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/f7227eb0-5236-11f0-860b-97fc2eb1c6d9.jpg",
+          "book_source": 1,
+          "special_desc": "専業主婦カレン、夫のトムはお金持ちの弁護士だった。ある日カレンが外出中、自宅が火災に遭い、5歳の娘アンナが瀕死状態に陥った。\n熱心な市民メアリーは消防隊長ボブの運転する消防車に同乗し、一刻も早いアンナを救急治療室に運び、手術を受けさせようとした。\nその途中、消防車が浮気から帰宅途中のカレンの車に衝突した。カレンは「土下座して謝罪し」と要求した上、損害賠償を求めた。メアリーと救急救命士イヴ、さらに通行人までが車を動かすよう懇願したが、カレンは頑として応じなかった。\nしかし、彼女は気づいていなかった──\nこの消防車が必死に運んでいるのは、まさに自分自身の娘の命だということに。",
+          "tag": [
+            "女性向けのドラマ",
+            "ドラマ",
+            "復讐",
+            "浮気",
+            "隣人",
+            "家庭主婦"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Female",
+              "lang_name": "女性向けのドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Drama",
+              "lang_name": "ドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Revenge",
+              "lang_name": "復讐",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Affair",
+              "lang_name": "浮気",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Neighbors",
+              "lang_name": "隣人",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Housewife",
+              "lang_name": "家庭主婦",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 589722,
+          "collect_count": 41038,
+          "chapter_count": 30,
+          "is_paid": 1,
+          "init_collect_count": 9509,
+          "init_read_count": 198098,
+          "is_preview": 0,
+          "book_id": "6854d0b61cc7f0fc460aa3a1",
+          "chapter_id": "b7k9gvf3nh",
+          "serial_number": 1
+        },
+        {
+          "_id": "684a3c59bf0dba6aa601c07a",
+          "t_book_id": "140000000000000257",
+          "book_title": "調停者",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/b8d66d40-4cd9-11f0-860b-97fc2eb1c6d9.jpg",
+          "book_source": 1,
+          "special_desc": "妹が保険を失い命を落としたその日から、マッテオ・レオーネの人生は一変した。絶望の中で、彼は保険会社のCEOを殺害し、自らの手で“正義”を下す道を選ぶ。だが、これは単なる復讐ではなかった。保険弱者を食い物にする腐敗した制度を暴くため、マッテオは警察の追跡をかわしながら、次々と“メッセージ”を残していく。そしていつしか、沈黙を強いられてきた人々の希望の象徴となっていく――。",
+          "tag": [
+            "男向けのドラマ",
+            "復讐",
+            "モダン",
+            "守る夫",
+            "医者"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Male",
+              "lang_name": "男向けのドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Revenge",
+              "lang_name": "復讐",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Modern",
+              "lang_name": "モダン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Protective Husband",
+              "lang_name": "守る夫",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Doctor",
+              "lang_name": "医者",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 291925,
+          "collect_count": 25647,
+          "chapter_count": 38,
+          "is_paid": 1,
+          "init_collect_count": 9863,
+          "init_read_count": 240573,
+          "is_preview": 0,
+          "book_id": "684a3c59bf0dba6aa601c07a",
+          "chapter_id": "i1rwfzpjwy",
+          "serial_number": 1
+        },
+        {
+          "_id": "686f5afe374f7f776f0f5956",
+          "t_book_id": "140000000000000279",
+          "book_title": "空飛ぶ修羅場",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/45f09be0-d021-11f0-84ad-6b5693b490dc.jpg",
+          "book_source": 1,
+          "special_desc": "足を骨折しギプスを装着中のイヴは、ハワイで行われる兄の結婚式に出席するため、広めの座席を予約して飛行機に乗り込んだ。でも、機内で横柄な母親とそのわがままな息子に席の交換を強要される。飛行中に乱気流で転んだ息子を見た母親は「飛行機を引き返せ」と乗務員にクレームをつけ、騒ぎを起こした。ついに緊急着陸を余儀なくされる事態になった。その後駆けつけた母親の妹クララは、イヴを「婚約者の愛人」だと激しく糾弾したが、実はイヴは婚約者の実妹だった。この大騒動で結婚式は中止となり、クララは航空機内での暴行罪で逮捕される羽目になった。",
+          "tag": [
+            "復讐"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Revenge",
+              "lang_name": "復讐",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 3769205,
+          "collect_count": 86859,
+          "chapter_count": 41,
+          "is_paid": 1,
+          "init_collect_count": 310,
+          "init_read_count": 6919,
+          "is_preview": 0,
+          "book_id": "686f5afe374f7f776f0f5956",
+          "chapter_id": "j8ad74l23i",
+          "serial_number": 1
+        },
+        {
+          "_id": "68d2060f4d6ba943670b0645",
+          "t_book_id": "140000000000000334",
+          "book_title": "偽りのルナと運命のつがい",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/b84a4220-9dd3-11f0-a06b-bdb674869ea1.jpg",
+          "book_source": 1,
+          "special_desc": "彼は彼女を救うため、残忍な父を殺した。新たなアルファキングとなった彼は、運命のメイトを生かすため、彼女の存在を隠し、偽りのルナを身代わりに立てることを余儀なくされる。しかし、彼が戦いで不在の隙に、彼女は偽りのルナに発見され、残虐な拷問にかけられてしまう。果たして彼女は、アルファキングが帰還し復讐を遂げるまで、生き延びることができるのだろうか？",
+          "tag": [
+            "復讐"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Revenge",
+              "lang_name": "復讐",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 38070,
+          "collect_count": 489,
+          "chapter_count": 44,
+          "is_paid": 1,
+          "init_collect_count": 250,
+          "init_read_count": 6439,
+          "is_preview": 0,
+          "book_id": "68d2060f4d6ba943670b0645",
+          "chapter_id": "60p7nfd8z7",
+          "serial_number": 1
+        },
+        {
+          "_id": "683fc14255a5ba21da0e3257",
+          "t_book_id": "140000000000000248",
+          "book_title": "血塗られた花嫁 ～ 愛は狂気に染まる～",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/dfc13df0-45c6-11f0-860b-97fc2eb1c6d9.jpg",
+          "book_source": 1,
+          "special_desc": "メアと婚約者のニックは貧乏であるが愛を持っている。孤児として育ったメアは、自分の家族がいない分、ニックの家族に囲まれた結婚式を夢見ていたが、ニックは疎遠になった家族のことを話そうとしない。そんな中、ニックの母親が突然現れ、メアを裕福で謎めいたソーンウッド家へと温かく迎え入れる。さらに、彼女はソーンウッド家の豪邸での結婚式を提案する。しかし、式当日の朝、恐ろしい真実がメアの夢を打ち砕き、彼女は「幸せな結婚式」どころか、ソーンウッド家の暗い歴史に翻弄される悪夢へと足を踏み入れようとしていることに気づく——そして、その結末は彼女の命を奪うかもしれない。",
+          "tag": [
+            "女性向けのドラマ",
+            "悪女ヒロイン",
+            "モダン",
+            "身分を隠せ",
+            "秘密",
+            "ストロングウィル"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Female",
+              "lang_name": "女性向けのドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Strong Heroine",
+              "lang_name": "悪女ヒロイン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Modern",
+              "lang_name": "モダン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Hidden Identity",
+              "lang_name": "身分を隠せ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Secret",
+              "lang_name": "秘密",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Strong-Willed",
+              "lang_name": "ストロングウィル",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 1227079,
+          "collect_count": 40774,
+          "chapter_count": 47,
+          "is_paid": 1,
+          "init_collect_count": 11189,
+          "init_read_count": 233109,
+          "is_preview": 0,
+          "book_id": "683fc14255a5ba21da0e3257",
+          "chapter_id": "fw6z20j2i4",
+          "serial_number": 1
+        },
+        {
+          "_id": "683555d81e10c5078109db7f",
+          "t_book_id": "140000000000000238",
+          "book_title": "私を捨てた消防士が今や大富豪！？",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/96e59980-40f5-11f0-b65a-27549cd2a91e.jpg",
+          "book_source": 1,
+          "special_desc": "アーチャーはアリスとの結婚式に姿を現さなかった――消防任務中の爆発で命を落としたという噂が流れる。悲しみに暮れるアリスをよそに、欲深い両親は彼女を嫌な男フィリップに嫁がせようとする。新たな結婚式の日、アリスはついにアーチャーと再会するが、彼は別の女性と婚約していた――。",
+          "tag": [
+            "女性向けのドラマ",
+            "二度目のチャンス",
+            "モダン",
+            "三角関係",
+            "復讐",
+            "再会",
+            "相続人/社会人",
+            "インディペンデント・ウーマン"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Female",
+              "lang_name": "女性向けのドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Second Chance",
+              "lang_name": "二度目のチャンス",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Modern",
+              "lang_name": "モダン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Love Triangle",
+              "lang_name": "三角関係",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Revenge",
+              "lang_name": "復讐",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Reunion",
+              "lang_name": "再会",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Heiress/Socialite",
+              "lang_name": "相続人/社会人",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Independent Woman",
+              "lang_name": "インディペンデント・ウーマン",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 2477097,
+          "collect_count": 50681,
+          "chapter_count": 50,
+          "is_paid": 1,
+          "init_collect_count": 8014,
+          "init_read_count": 200338,
+          "is_preview": 0,
+          "book_id": "683555d81e10c5078109db7f",
+          "chapter_id": "j1kpjfo3q6",
+          "serial_number": 1
+        },
+        {
+          "_id": "6891d5baab41bb6d890f74c6",
+          "t_book_id": "140000000000000298",
+          "book_title": "お前は天才外科医を解雇した",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/2f074a60-767a-11f0-a06b-bdb674869ea1.jpg",
+          "book_source": 1,
+          "special_desc": "国で最も名高い外科医エイドリアン・マークスマンは、上司の息子に解雇される。彼はライバル病院の才気あふれる野心家ヴィヴィアン・ハートと手を組み、元の病院は経営破綻に追い込まれる。プレストンが優秀な医師を切った代償に気づいた時には、もう遅かった…",
+          "tag": [
+            "カムバックストーリー"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Comeback Story",
+              "lang_name": "カムバックストーリー",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 181389,
+          "collect_count": 1417,
+          "chapter_count": 50,
+          "is_paid": 1,
+          "init_collect_count": 233,
+          "init_read_count": 5895,
+          "is_preview": 0,
+          "book_id": "6891d5baab41bb6d890f74c6",
+          "chapter_id": "7o89lak6xj",
+          "serial_number": 1
+        },
+        {
+          "_id": "67b29b077d337cf4930211f0",
+          "t_book_id": "140000000000000176",
+          "book_title": "偽装結婚は恋の始まり",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/da30f490-f31c-11ef-a38f-0d66b56fc320.jpg",
+          "book_source": 1,
+          "special_desc": "命の恩人アライナに秘かな想いを寄せる大実業家ウィリアム。甥のジェイソンと婚約したアライナとの距離を保とうとするも、ジェイソンの裏切りで婚約は破談に。認知症の祖母の願いを叶えるため、アライナはウィリアムに1年限定の偽装結婚を持ちかける。表向きは契約婚だが、少しずつ芽生えるのは本物の愛——。",
+          "tag": [
+            "女性向けのドラマ",
+            "悪女ヒロイン",
+            "モダン",
+            "身分を隠せ",
+            "とぼける",
+            "タブー",
+            "億万長者",
+            "インディペンデント・ウーマン"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Female",
+              "lang_name": "女性向けのドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Strong Heroine",
+              "lang_name": "悪女ヒロイン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Modern",
+              "lang_name": "モダン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Hidden Identity",
+              "lang_name": "身分を隠せ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Playing Dumb",
+              "lang_name": "とぼける",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Taboo",
+              "lang_name": "タブー",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Billionaire",
+              "lang_name": "億万長者",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Independent Woman",
+              "lang_name": "インディペンデント・ウーマン",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 3188197,
+          "collect_count": 63375,
+          "chapter_count": 51,
+          "is_paid": 1,
+          "init_collect_count": 8802,
+          "init_read_count": 224530,
+          "is_preview": 0,
+          "book_id": "67b29b077d337cf4930211f0",
+          "chapter_id": "pgf6t4ksin",
+          "serial_number": 1
+        },
+        {
+          "_id": "67d783bf58f79dd7d108992c",
+          "t_book_id": "140000000000000186",
+          "book_title": "切ない愛を終らせて",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/4b646dd0-03cc-11f0-a38f-0d66b56fc320.jpg",
+          "book_source": 1,
+          "special_desc": "ガン宣告を受け余命三ヶ月と告げられたキャロラインの前に、夫エリックの元恋人ステイシーが6歳の子供を連れて現れる。その子はエリックの子だという。裏切りを重ねるエリックに対し、キャロラインは絶望の中で離婚を決意する。彼女がいない生活が始まって初めて、エリックは失った愛の大きさと彼女の病気の真実を知る。しかしもう遅い。キャロラインは最後の日々を彼を愛することに費やすつもりはなく、自分自身のために生きることを選んだのだ。",
+          "tag": [
+            "女性向けのドラマ",
+            "中毒性がある恋愛",
+            "モダン",
+            "離婚後の愛",
+            "三角関係",
+            "あまりに遅すぎる",
+            "家庭主婦"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Female",
+              "lang_name": "女性向けのドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Toxic Love",
+              "lang_name": "中毒性がある恋愛",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Modern",
+              "lang_name": "モダン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Love After Divorce",
+              "lang_name": "離婚後の愛",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Love Triangle",
+              "lang_name": "三角関係",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "All-Too-Late",
+              "lang_name": "あまりに遅すぎる",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Housewife",
+              "lang_name": "家庭主婦",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 3987878,
+          "collect_count": 40715,
+          "chapter_count": 51,
+          "is_paid": 1,
+          "init_collect_count": 6146,
+          "init_read_count": 178650,
+          "is_preview": 0,
+          "book_id": "67d783bf58f79dd7d108992c",
+          "chapter_id": "f8qvxbmu1z",
+          "serial_number": 1
+        },
+        {
+          "_id": "67ea30c546ee7e7ada061311",
+          "t_book_id": "140000000000000198",
+          "book_title": "サレ夫の逆襲",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/0f44b440-0f70-11f0-a38f-0d66b56fc320.jpg",
+          "book_source": 1,
+          "special_desc": "世界一の富豪であるニックは、妻ベラと慎ましい生活を送っていた。しかし、彼が自身の正体を明かし、莫大な富と権力をベラと分かち合おうとした矢先、衝撃の裏切りが明らかに。ニックはベラが自分を愛していたのは本心ではなく、別の目的があったと知る。傷心のニックは、もうひとりの女性エレナと出会った。富と権力に執着しないエレナを選んだニックに対し、ベラは深い後悔に苛まれる。",
+          "tag": [
+            "男向けのドラマ",
+            "カムバックストーリー",
+            "モダン",
+            "多重アイデンティティ",
+            "離婚後の愛",
+            "人違い",
+            "ロイヤル/貴族",
+            "元帥/将軍"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Male",
+              "lang_name": "男向けのドラマ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Comeback Story",
+              "lang_name": "カムバックストーリー",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Modern",
+              "lang_name": "モダン",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Multiple Identities",
+              "lang_name": "多重アイデンティティ",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Love After Divorce",
+              "lang_name": "離婚後の愛",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Mistaken Identity",
+              "lang_name": "人違い",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Royalty/Nobility",
+              "lang_name": "ロイヤル/貴族",
+              "lang": "ja"
+            },
+            {
+              "ori_name": "Marshal/General",
+              "lang_name": "元帥/将軍",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 4521710,
+          "collect_count": 41788,
+          "chapter_count": 51,
+          "is_paid": 1,
+          "init_collect_count": 7833,
+          "init_read_count": 180903,
+          "is_preview": 0,
+          "book_id": "67ea30c546ee7e7ada061311",
+          "chapter_id": "bjcdd6cfaa",
+          "serial_number": 1
+        },
+        {
+          "_id": "68d6173ecea0f35b1009516b",
+          "t_book_id": "140000000000000337",
+          "book_title": "出生時にすり替えられた令嬢？",
+          "book_pic": "https://v-mps.crazymaplestudios.com/images/92d85120-9c67-11f0-a06b-bdb674869ea1.jpg",
+          "book_source": 1,
+          "special_desc": "親友二人が同じ日に出産する。貧しいエディスは自分の娘に贅沢な人生を送らせようと、密かに社長である友人の赤ん坊と自分の赤ん坊をすり替える。しかし、彼女が予想していなかったのは、社長が全てを見抜いており、密かに赤ん坊を元に戻していたことだった。18年後、エディスの計画が成功間近に迫ったまさにその時、彼女は衝撃の真実を知る。長年虐待してきた方が、彼女の実の娘だったのだ。",
+          "tag": [
+            "復讐"
+          ],
+          "book_type": 1,
+          "book_genre": 1,
+          "tag_lang": [
+            {
+              "ori_name": "Revenge",
+              "lang_name": "復讐",
+              "lang": "ja"
+            }
+          ],
+          "read_count": 1617316,
+          "collect_count": 25025,
+          "chapter_count": 51,
+          "is_paid": 1,
+          "init_collect_count": 240,
+          "init_read_count": 6895,
+          "is_preview": 0,
+          "book_id": "68d6173ecea0f35b1009516b",
+          "chapter_id": "lhowsdwwdx",
+          "serial_number": 1
+        }
+      ],
+      "total_items": 1031,
+      "page": 1,
+      "page_size": 12
+    },
+    "page": 1,
+    "total": 1031,
+    "totalPage": 86,
+    "path": "all-movies",
+    "nextPageLink": "https://www.reelshort.com/ja/movie-genres/all-movies/2",
+    "prevPageLink": "",
+    "__lang": "ja",
+    "__namespaces": {
+      "common": {
+        "home": "ホーム",
+        "genre": "ジャンル",
+        "fandom": "ファンダム",
+        "brand": "ブランド",
+        "rs-drama-world": "ReelShort ドラマワールド",
+        "search": "検索",
+        "desktopApp": "デスクトップアプリ",
+        "history": "再生履歴",
+        "myList": "マイリスト",
+        "guest": "ゲスト",
+        "coins": "コイン",
+        "bonus": "ボーナス",
+        "topUp": "チャージ",
+        "about": "詳細",
+        "contactUs": "お問い合わせ",
+        "tos": "利用規約",
+        "pp": "プライバシーポリシー",
+        "support": "サポート",
+        "feedback": "フィードバック",
+        "mpr": "メディア・広報",
+        "community": "コミュニティ",
+        "all_right_inc": "{{year}} Crazy Maple Studio Inc.© 全著作権所有。",
+        "amount": "金額",
+        "hot-movie": "人気作品",
+        "search-placeholder": "好きなものを何でも検索してください。",
+        "p-a-s": "みんなの検索",
+        "loading": "読み込み中",
+        "play": "再生",
+        "share": "共有",
+        "link": "リンク",
+        "copy-success": "リンクがコピーされました。",
+        "episode": "エピソード",
+        "episodes": "エピソード",
+        "more": "もっと",
+        "hotTag": "人気タグ",
+        "you-might-like": "おすすめ",
+        "c-w": "続きを視聴",
+        "add-to-my-list": "マイリストに追加",
+        "added-to-my-list": "マイリストに追加済み",
+        "all": "すべて",
+        "coming-soon": "近日公開",
+        "in-my-list": "マイリストに追加",
+        "word-movie-series": "{{word}}作品シリーズ",
+        "word-movies": "{{word}}作品",
+        "link-an-account": "アカウント連携",
+        "played-to-episode": "エピソード{{episode}}まで再生した",
+        "nav-none-his": "まだビデオを視聴していません。",
+        "price": "価格",
+        "w2a-title": "世界中で最も人気のある短編ドラマ",
+        "w2a-describe": "ロマンス、サスペンス、スリラーなど、多彩なジャンルのドラマが登場しています。",
+        "go-to-reelshort": "ReelShort を今すぐ見る",
+        "link-an-account-title": "アカウントをリンク！",
+        "link-an-account-desc": "ゲストアカウントを使用していることが検出されました。資産損失のリスクがあります。資産の安全のため、有効なアカウントをリンクすることをお勧めします。",
+        "link-an-account-enter-subscription": "ゲストアカウントを使用していることが検出されました。特典を失うリスクがあります。有効なアカウントをリンクすることをお勧めします。",
+        "top-up-success-title": "チャージ完了！",
+        "subscription-success-title": "購読完了！",
+        "subscription-success-desc": "ゲストアカウントを使用していることが検出されました。特典を失うリスクがあります。有効なアカウントをリンクすることをお勧めします。",
+        "all-for-free": "全て無料",
+        "hit-series": "人気シリーズ",
+        "20-new-weekly": "毎週20作品以上の新作",
+        "w-t-rs": "ReelShort へようこそ！",
+        "log-in-with-google": "Google でサインイン",
+        "log-in-with-facebook": "Facebook でサインイン",
+        "log-in-with-apple": "Apple でサインイン",
+        "current-account-linked": "現在のアカウント({{email}})はもう連携されました。もう一度選択してください。",
+        "login-failed": "ログインに失敗しました",
+        "linking-success": "アカウントの連携完了",
+        "service-agreement": "サービス契約",
+        "privacy-policy": "プライバシーポリシー",
+        "recent-login": "最近のログイン",
+        "skip": "スキップ",
+        "premium": "プレミアム",
+        "once-you-log-out": "ログアウトすると、残高はご利用できなくなります。",
+        "stay-logged-in": "ログイン状態を保持する",
+        "once-you-log-out-subscription": "ログアウトすると、特典が受けられなくなります。",
+        "unlimited-free-viewing": "無制限無料で視聴できます",
+        "global-hit-love-skit": "世界的な人気のラブコメディー",
+        "exclusive-originals-new-weekly": "毎週新しいオリジナル作品の独占配信",
+        "reminder": "リマインダー",
+        "log-out": "ログアウト",
+        "log-in": "ログイン",
+        "404-not-found": "このページは存在しません。",
+        "cancel": "キャンセル",
+        "ok": "確認",
+        "select-all": "すべて選択",
+        "delete": "削除",
+        "success-remove-list": "マイリストから削除されました",
+        "my-list-remove-error": "マイリストから削除できません。",
+        "desk-app-not-support": "お使いのブラウザはこのデスクトップアプリに対応していません。Chrome ブラウザを使用してください。",
+        "desk-app-install": "より良い経験の為に、デスクトップアプリをダウンロードしてください。",
+        "download": "ダウンロード",
+        "login-title": "ReelShort アカウントにログイン",
+        "login-description": "ログインしてアカウント情報を確認してください。",
+        "remove-story": "選択した項目を削除してもよろしいですか？",
+        "please-reelshort-app-watch": "ReelShortアプリで映画をご覧ください。",
+        "page-not-found": "ページが見つかりません",
+        "not-found-desc": "あなたが訪れているページは存在しません。お気に入りの映画を検索したり、映画のジャンルを選択して進むことができます。",
+        "protocol": "続行することで、<0>利用規約</0> および <1>プライバシーポリシー</1> に同意したことになります。",
+        "scan-qr-code-download": "QRコードをスキャンしてReelShortアプリをダウンロードしましょう",
+        "download-on-app": "iOS/Androidでアプリをダウンロード",
+        "download-btn-text-default": "ReelShortをダウンロードして、もっと素晴らしい動画を楽しみましょう",
+        "download-btn-text-scene-1": "ReelShortをダウンロードして、無料で視聴しましょう",
+        "open": "開ける",
+        "language": "言語",
+        "embed-video": "動画を埋め込む",
+        "embed-options": "埋め込みオプション",
+        "show-player-controls": "プレーヤー設定を表示する",
+        "embed-rs-terms": "ReelShortの動画をサイトに保存することで、ReelShort API利用規約に同意したものとみなされます",
+        "copy": "コピー",
+        "copy-code-success": "リンクをクリップボードにコピーしました",
+        "embed-play-error": "申し訳ありません。この動画は再生できません",
+        "watch-on": "こちらで視聴 <0/>",
+        "embed": "埋め込み",
+        "actor": "俳優",
+        "actress": "女優",
+        "identity": "アイデンティティ",
+        "story_beat": "ストーリービート",
+        "expand": "展開",
+        "collapse": "簡略表示",
+        "categories": "カテゴリー",
+        "slogan": "ReelShort：すべての瞬間がドラマになる",
+        "mc-types": "主人公タイプ",
+        "styles": "スタイル",
+        "themes": "テーマ",
+        "moods": "ムード",
+        "story-regions": "ストーリー地域",
+        "locations": "ロケーション",
+        "story-times": "ストーリー時間",
+        "ratings": "評価",
+        "tropes": "トロープ",
+        "story-settings": "ストーリー設定",
+        "movie-list": "{{tag}}映画リスト",
+        "movie-starring": "{{tag}}主演の映画",
+        "movie-width-setting": "{{tag}}設定の映画",
+        "movie-set-in": "{{tag}}に設定された映画",
+        "movie-with-mood": "{{tag}}ムードの映画",
+        "tag-story-movie": "{{tag}}ストーリー映画",
+        "movie-for": "{{tag}}向けの映画",
+        "movie-collection": "{{tag}}映画コレクション",
+        "based-movie": "{{tag}}ベースの映画",
+        "movies-of-all": "すべての{{tag}}の映画",
+        "best-movies": "ベスト{{tag}}映画",
+        "themed-movies": "{{tag}}テーマの映画",
+        "story-movies": "{{tag}}ストーリー映画",
+        "movies-list-of-all": "すべての{{tag}}の映画リスト",
+        "service-hours": "対応時間：月曜〜日曜 午前0時〜午前8時（アメリカ東部時間）",
+        "nav-lang-switch": "<0/>に切り替えますか？",
+        "cookie": "Cookie（クッキー）",
+        "accept-all": "すべて同意",
+        "cookies-message": "このサイトは、ユーザーの設定の記憶、興味の理解、ユーザー体験の向上、広告のパーソナライズなどのために、当社のコンテンツや機能とのやり取りに関するCookie情報を保存します。「すべて同意」をクリックすると、すべてのCookieの使用に同意したものとみなされます。詳細については、当社の <0/> と <1/> をご覧ください。",
+        "cookie-policies": "Cookieポリシー",
+        "no-access": "このページにはアクセスできません",
+        "unavailable-to-korean": "申し訳ありませんが、このコンテンツは韓国の規制により現在閲覧できません",
+        "access-forbidden": "アクセス禁止"
+      },
+      "movie": {
+        "trailer": "予告編",
+        "plot-of": "{{name}}の概要",
+        "episode-num": "エピソード {{num}}",
+        "trailer-title": "予告編 - {{movie}}",
+        "episode-title": "エピソード{{num}} - {{movie}}",
+        "episode-list-of": "{{movie}}エピソードリスト",
+        "all-episodes": "全エピソード",
+        "movie-all-episode": "{{movie}}の全エピソード",
+        "go-watch": "今すぐ観る",
+        "completed": "完了",
+        "ongoing": "進行中",
+        "full-movie": "映画フル",
+        "episode-list": "エピソードリスト",
+        "favorites": "お気に入り",
+        "unlock-episode": "エピソード {{i}} をアンロック",
+        "sold-recently": "最近{{count}} 販売されました。",
+        "exclusive-gift": "限定ギフト",
+        "purchase-up-to": "一点限りの購入制限",
+        "c-w-e-a-u": "アンロックした後、エピソード{{num}}を続けて観る",
+        "unlock-this-episode": "このエピソードをアンロック",
+        "top-up-to-unlock": "チャージしてアンロック",
+        "network-lagging-tips": "ネットワーク接続が不安定です。切り替えてみてください",
+        "get-the-app": "アプリをダウンロード",
+        "c-w-o-t-a": "アプリで続きを観る",
+        "g-t-a-a-l": "アプリをダウンロードして現在のアカウントでログインすると：",
+        "guide1": "1.ワンクリックでアカウントでの購入が同期できる",
+        "guide2": "2.いつでも新しい人気番組を視聴",
+        "get-for-your-first-login": "1.初回ログインでコイン<0/> <1>50ボーナス </1>を獲得できる。",
+        "full-episodes-desc-0": "短編映画シリーズ{{dramaName}} をみましょう。楽しんでください。",
+        "full-episodes-desc-1": "短編映画シリーズ {{dramaName}}をみましょう。この素晴らしいドラマを楽しんでください。",
+        "full-episodes-desc-2": "このドラマ {{dramaName}}は合計 {{totalEpisodes}} 回です。今、{{dramaName}} シリーズで良い一日を過ごしてください。",
+        "full-episodes-desc-3": "短編テレビシリーズ {{dramaName}}は合計 {{totalEpisodes}} 回です。最も素晴らしいエピソードは {{pe1}} と{{ep2}} です。今、{{dramaName}} シリーズで良い一日を過ごしてください。",
+        "scan-qr-code": "スマホのカメラでQRコードをスキャンする",
+        "desk-app-download": "アプリをダウンロードして、新作を一足早くお楽しみください",
+        "go-watch-app": "ReelShortアプリで映画を見る",
+        "movie-title": "{{book_title}} 番組オンラインで視聴",
+        "available": "{{date}} に登場",
+        "full-episodes": "全エピソード",
+        "plot-of-num": "エピソード {{num}}のあらすじ",
+        "plot-of-trailer": "予告編のあらすじ",
+        "watch-in-app": "ReelShortアプリで視聴",
+        "get_interactive_movie": "インタラクティブムービーを楽しもう！",
+        "download_app_make_choose": "アプリをダウンロードして、ストーリーをあなたの選択で進めよう",
+        "get_bonus_first_login": "初回ログインでコイン<0/> <1>50ボーナス </1>を獲得できる。",
+        "embed-title": "第{{num}}話 - {{movie}} 視聴方法 | ReelShort",
+        "embed-h1": "第{{num}}話 - {{movie}} オンライン再生",
+        "embed-desc": "どこで新着ドラマ{{movie}}第{{num}}話を見る？ReelShort公式配信プラットフォームへようこそ！",
+        "shelf-title": "{{shelfName}} ショートドラマ／テレビドラマ | ReelShort",
+        "shelf-desc": "あなた好みの作品を厳選して{{shelfName}}に保存しました。以下の作品がおすすめです： {{one}}, {{two}}, と {{three}}",
+        "verticals": "{{shelfName}} 縦型作品",
+        "results-total": "約{{total}}件の検索結果があります",
+        "back": "戻る",
+        "no-copyright-tip": "申し訳ございません。このコンテンツはあなたの地域で利用不可となります。",
+        "ali-audio": "音声",
+        "ali-subtitles": "字幕",
+        "ali-off": "オフ",
+        "ali-speed": "再生速度",
+        "ali-quality": "画質",
+        "ali-auto": "自動",
+        "ali-playback-speed": "再生速度",
+        "ali-switching-clarity": "画質を切り替え",
+        "ali-switch-to": "{{lang}} HDに切り替え",
+        "ali-fullscreen": "全画面表示",
+        "ali-exit-fullscreen": "全画面表示終了",
+        "ali-hide-menu": "メニューを隠す",
+        "ali-expand-menu": "メニューを表示",
+        "ali-play": "再生",
+        "ali-pause": "一時停止",
+        "ali-next-episode": "次のエピソード",
+        "ali-settings": "設定",
+        "ali-switching-subtitle": "字幕切り替え中…",
+        "search-other-movies-desc": "ドラマ別名：{{otherName}}",
+        "detail-other-movies-desc": "このドラマは{{otherName}}としても知られています",
+        "episodes-other-movies-desc": "これは{{otherName}}のエピソード{{current}}でもあります",
+        "full-episodes-other-movies-desc": "こちらが{{otherName}}の全エピソードです。"
+      }
+    }
+  },
+  "__N_SSG": true
+}

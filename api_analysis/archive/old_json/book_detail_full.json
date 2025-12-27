@@ -1,0 +1,620 @@
+{
+  "code": 0,
+  "msg": "success",
+  "server_time": 1766643979,
+  "clientTraceId": "",
+  "data": {
+    "book_id": "665e400dd9de5760ea05e1be",
+    "book_title": "さようなら、私のCEO",
+    "book_type": 1,
+    "book_genre": 1,
+    "book_source": 1,
+    "book_pic": "https://v-mps.crazymaplestudios.com/images/ddae312e49cafd8b.jpg",
+    "special_desc": "ジェームス・ナイトがあなたの上司です。セクシーでリッチ、そして完全に立ち入り禁止。彼とデートするとあなたのキャリアが台無しになるかもしれませんが、彼を愛すると確実にあなたの心は傷つきます。なぜなら、自分が何かを望んでいるのに、それを決して手に入れることができないと知ることより悪いことがあるでしょうか?",
+    "lang": "ja",
+    "t_book_id": "140000000000000016",
+    "tag": [
+      "タブー",
+      "お涙ちょうだい",
+      "オフィスラブ",
+      "億万長者",
+      "無邪気な乙女",
+      "コンテンポラリー",
+      "トキシック",
+      "女性向けのドラマ",
+      "Maryana Dvorska",
+      "Kasey Esser"
+    ],
+    "update_status": 1,
+    "is_preview": 0,
+    "read_count": 160405,
+    "collect_count": 948,
+    "online_base": [
+      {
+        "chapter_id": "k067gcl1my",
+        "status": 1,
+        "like_count": 2348,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 1
+      },
+      {
+        "chapter_id": "6jyivfccw9",
+        "status": 1,
+        "like_count": 2604,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 2
+      },
+      {
+        "chapter_id": "ubx6rxoa7u",
+        "status": 1,
+        "like_count": 1543,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 3
+      },
+      {
+        "chapter_id": "qsvjgkwqan",
+        "status": 1,
+        "like_count": 1006,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 4
+      },
+      {
+        "chapter_id": "38evyxptow",
+        "status": 1,
+        "like_count": 2374,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 5
+      },
+      {
+        "chapter_id": "bdynag6k97",
+        "status": 1,
+        "like_count": 2438,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 6
+      },
+      {
+        "chapter_id": "5d94ou00px",
+        "status": 1,
+        "like_count": 2385,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 7
+      },
+      {
+        "chapter_id": "zb213355fi",
+        "status": 1,
+        "like_count": 1345,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 8
+      },
+      {
+        "chapter_id": "ab34w7v3m8",
+        "status": 1,
+        "like_count": 1741,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 9
+      },
+      {
+        "chapter_id": "8gmkzdmxrd",
+        "status": 1,
+        "like_count": 2535,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 10
+      },
+      {
+        "chapter_id": "8jduqiwg9x",
+        "status": 1,
+        "like_count": 2626,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 11
+      },
+      {
+        "chapter_id": "p1ddqs1e01",
+        "status": 1,
+        "like_count": 2015,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 12
+      },
+      {
+        "chapter_id": "d9ojz2j4o3",
+        "status": 1,
+        "like_count": 1723,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 13
+      },
+      {
+        "chapter_id": "5wd89fma4f",
+        "status": 1,
+        "like_count": 1483,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 14
+      },
+      {
+        "chapter_id": "yyqg9byo3x",
+        "status": 1,
+        "like_count": 1118,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 15
+      },
+      {
+        "chapter_id": "0vlo1nehhk",
+        "status": 1,
+        "like_count": 1965,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 16
+      },
+      {
+        "chapter_id": "s1wgsuca2t",
+        "status": 1,
+        "like_count": 1711,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 17
+      },
+      {
+        "chapter_id": "n3hgsyli6s",
+        "status": 1,
+        "like_count": 1872,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 18
+      },
+      {
+        "chapter_id": "9zx8ihxef1",
+        "status": 1,
+        "like_count": 1267,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 19
+      },
+      {
+        "chapter_id": "oczmlnww4r",
+        "status": 1,
+        "like_count": 1784,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 20
+      },
+      {
+        "chapter_id": "td43593yit",
+        "status": 1,
+        "like_count": 1020,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 21
+      },
+      {
+        "chapter_id": "ee0h4bf0yy",
+        "status": 1,
+        "like_count": 1265,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 22
+      },
+      {
+        "chapter_id": "tljqab4zu5",
+        "status": 1,
+        "like_count": 2679,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 23
+      },
+      {
+        "chapter_id": "ml0vm0qyzd",
+        "status": 1,
+        "like_count": 1584,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 24
+      },
+      {
+        "chapter_id": "hotxp8bog4",
+        "status": 1,
+        "like_count": 2138,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 25
+      },
+      {
+        "chapter_id": "oat8x0abu6",
+        "status": 1,
+        "like_count": 2011,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 26
+      },
+      {
+        "chapter_id": "sfofwxesqb",
+        "status": 1,
+        "like_count": 2067,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 27
+      },
+      {
+        "chapter_id": "otnu66g5o4",
+        "status": 1,
+        "like_count": 2359,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 28
+      },
+      {
+        "chapter_id": "qmg86r27zm",
+        "status": 1,
+        "like_count": 2679,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 29
+      },
+      {
+        "chapter_id": "s8rwfjqrbb",
+        "status": 1,
+        "like_count": 1032,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 30
+      },
+      {
+        "chapter_id": "10cckh9vsn",
+        "status": 1,
+        "like_count": 2437,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 31
+      },
+      {
+        "chapter_id": "ox6iihycfh",
+        "status": 1,
+        "like_count": 1143,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 32
+      },
+      {
+        "chapter_id": "v6rjef8mqf",
+        "status": 1,
+        "like_count": 2888,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 33
+      },
+      {
+        "chapter_id": "butn1f88x5",
+        "status": 1,
+        "like_count": 2759,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 34
+      },
+      {
+        "chapter_id": "lc0vdjydys",
+        "status": 1,
+        "like_count": 2838,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 35
+      },
+      {
+        "chapter_id": "w1hiswie6v",
+        "status": 1,
+        "like_count": 1457,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 36
+      },
+      {
+        "chapter_id": "78ieoo5dyc",
+        "status": 1,
+        "like_count": 2753,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 37
+      },
+      {
+        "chapter_id": "v6mjjdzhkf",
+        "status": 1,
+        "like_count": 1430,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 38
+      },
+      {
+        "chapter_id": "g15mmhe2hz",
+        "status": 1,
+        "like_count": 1741,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 39
+      },
+      {
+        "chapter_id": "ysh625fpk6",
+        "status": 1,
+        "like_count": 1788,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 40
+      },
+      {
+        "chapter_id": "btmpz8olfk",
+        "status": 1,
+        "like_count": 1873,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 41
+      },
+      {
+        "chapter_id": "h0g7k8iydf",
+        "status": 1,
+        "like_count": 1610,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 42
+      },
+      {
+        "chapter_id": "93y8vy1tfr",
+        "status": 1,
+        "like_count": 1594,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 43
+      },
+      {
+        "chapter_id": "nl2vxjf8qz",
+        "status": 1,
+        "like_count": 2184,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 44
+      },
+      {
+        "chapter_id": "fkc4iat1og",
+        "status": 1,
+        "like_count": 1285,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 45
+      },
+      {
+        "chapter_id": "l677ofmfau",
+        "status": 1,
+        "like_count": 1773,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 46
+      },
+      {
+        "chapter_id": "e29f9epklp",
+        "status": 1,
+        "like_count": 1308,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 47
+      },
+      {
+        "chapter_id": "25pselzyeg",
+        "status": 1,
+        "like_count": 2198,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 48
+      },
+      {
+        "chapter_id": "7qz43h8hhn",
+        "status": 1,
+        "like_count": 1744,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 49
+      },
+      {
+        "chapter_id": "4dbf53vu6h",
+        "status": 1,
+        "like_count": 1730,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 50
+      },
+      {
+        "chapter_id": "w5q238h7aa",
+        "status": 1,
+        "like_count": 2858,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 51
+      },
+      {
+        "chapter_id": "s05tn2kaa1",
+        "status": 1,
+        "like_count": 2637,
+        "chapter_weight": 1,
+        "chapter_type": 1,
+        "serial_number": 52
+      }
+    ],
+    "start_play": {
+      "screen_mode": 1,
+      "chapter_id": "k067gcl1my",
+      "duration": 106,
+      "video_pic": "https://v-mps.crazymaplestudios.com/vod-112094/10818de223b271efbb4c87c7361c0102/snapshots/93572310a54c4e2cb33b5849e8b2cc67-00001.jpg",
+      "video_type": 1,
+      "chapter_index": 1,
+      "episode_index": 0,
+      "play_info": "+lKsFWYMoRDKaPOTPwhhxg8nUAZ1084btc1fzPTgX0HdM5E5nXswrX35b8YDBhfhReyjuzqDrQlFQ0ube5fLhc1SLn0Ii6sa8Av7AxhsOW64sXxJ4cHXl9yt089xpvP9C6tZ7IH7s+3P6Z+vmdWKJBQq97VTY/Tst7LtOGMcH9dQVMKXl3SeD4oYiI+yAhmrnVJOyA9hgf4mP2MmnLasoxu3gPOv99LXeurIAYPZpwmmU9hZs5aLqZNolGUxqzKb4ql9mYZPmHyWjqNpP642SU7e8A1ME0QhCEkH3BrsNCrp2MXevbzFtLVB/Zrqx3+uklqYp1CspRGX16MpYBxG69NNrE3TNMH+pkKmLsk1zPWGClqUCCrwNHpVdku3sYM3Vrfns6yA9YatCaTrNy7g5mLvT/RlTPOAKklz5Ec5pIcPiyVCq1SA7DHUDOiB/2M/hvW5kKvbAC8+hDZ2695JBjaAPj/WK083fYNNs+i1xSjzvi602hahoqyTeUFWuLi4ZiDXQwqsf+QFpLWSKAvhs0fBCrWVBzZyeeyCBYoQREYW7XRiOSYtpzK6/DCJ9EPsbWS7UaEPp6L2WUnwN0kfeu37Eps54DnugxIBYEsPCc4="
+    },
+    "total": 52,
+    "is_paid": 1,
+    "tag_list": [
+      {
+        "id": "676d21074582b53a14081663",
+        "category_id": "1000",
+        "text": "女性"
+      },
+      {
+        "id": "676d21074582b53a14081673",
+        "category_id": "1001",
+        "text": "Kasey Esser"
+      },
+      {
+        "id": "676d21094582b53a14081804",
+        "category_id": "1005",
+        "text": "Maryana Dvorska"
+      },
+      {
+        "id": "676d210b4582b53a140818e9",
+        "category_id": "1005",
+        "text": "Molly Anderson"
+      },
+      {
+        "id": "676d210c4582b53a140819c1",
+        "category_id": "1010",
+        "text": "ロマンス"
+      },
+      {
+        "id": "676d210f4582b53a14081b83",
+        "category_id": "1010001",
+        "text": "ダメな恋愛"
+      },
+      {
+        "id": "676d210c4582b53a140819c7",
+        "category_id": "1011",
+        "text": "モダン"
+      },
+      {
+        "id": "676d210d4582b53a14081a07",
+        "category_id": "1012",
+        "text": "禁断の愛"
+      },
+      {
+        "id": "676d210d4582b53a14081a4f",
+        "category_id": "1012",
+        "text": "親密"
+      },
+      {
+        "id": "676d210d4582b53a14081a34",
+        "category_id": "1012",
+        "text": "三角関係"
+      },
+      {
+        "id": "676d210d4582b53a140819cc",
+        "category_id": "1012",
+        "text": "ロマンチック"
+      },
+      {
+        "id": "676d210d4582b53a140819e7",
+        "category_id": "1012",
+        "text": "濃厚"
+      },
+      {
+        "id": "676d210d4582b53a140819cf",
+        "category_id": "1012",
+        "text": "サスペンス"
+      },
+      {
+        "id": "676d210e4582b53a14081a67",
+        "category_id": "1013",
+        "text": "アメリカ合衆国"
+      },
+      {
+        "id": "676d210f4582b53a14081b22",
+        "category_id": "1023",
+        "text": "バー"
+      },
+      {
+        "id": "676d210f4582b53a14081b1e",
+        "category_id": "1023",
+        "text": "マンション"
+      },
+      {
+        "id": "676d210f4582b53a14081b1b",
+        "category_id": "1023",
+        "text": "オフィス"
+      },
+      {
+        "id": "676d210e4582b53a14081a7f",
+        "category_id": "1014",
+        "text": "現代的"
+      },
+      {
+        "id": "676d210e4582b53a14081a83",
+        "category_id": "1015",
+        "text": "全年齢"
+      },
+      {
+        "id": "676d210e4582b53a14081aab",
+        "category_id": "1020",
+        "text": "億万長者"
+      },
+      {
+        "id": "676d210e4582b53a14081aaa",
+        "category_id": "1020",
+        "text": "CEO"
+      },
+      {
+        "id": "676d210e4582b53a14081ab6",
+        "category_id": "1020",
+        "text": "乙女"
+      },
+      {
+        "id": "676d210e4582b53a14081aeb",
+        "category_id": "1022",
+        "text": "不倫"
+      },
+      {
+        "id": "676d210e4582b53a14081ae7",
+        "category_id": "1022",
+        "text": "契約恋人"
+      },
+      {
+        "id": "676d210f4582b53a14081af9",
+        "category_id": "1022",
+        "text": "社内恋愛"
+      },
+      {
+        "id": "676d210f4582b53a14081b07",
+        "category_id": "1022",
+        "text": "禁忌"
+      },
+      {
+        "id": "676d210f4582b53a14081b59",
+        "category_id": "1024",
+        "text": "体だけの関係"
+      },
+      {
+        "id": "676d210f4582b53a14081b5e",
+        "category_id": "1024",
+        "text": "妨害行為"
+      }
+    ],
+    "online_at": 0,
+    "publish_at": 1717655795,
+    "book_sub_title": [],
+    "actor_info": {
+      "imdb_id": "",
+      "imdb_url": "",
+      "actors": [
+        {
+          "actor_name": "Kasey Esser",
+          "actor_pic": "https://v-mps.crazymaplestudios.com/actorIMG/01b4f456def3fa93actor.jpg",
+          "inside_url": "https://www.reelshort.com/fandom/reelshort-actor-kasey-esser-01-6/",
+          "outside_url": "https://www.imdb.com/name/nm6820472/"
+        }
+      ]
+    }
+  }
+}
